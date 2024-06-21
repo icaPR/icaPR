@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **AI development**</p>
+- 🌱 I’m currently learning **AI development**
 
 ###
 
